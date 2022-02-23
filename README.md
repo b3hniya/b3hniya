@@ -8,14 +8,14 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=b3hniya.b3hniya">
 </div>
 
-<br/><h2> 🌱 I'm Currently learning</h2><hr/><br/>
+<h2> 🌱 I'm Currently learning</h2>
 
 <ul>
     <li>Entity Framework in depth</li>
     <li>ASP.Net Framework in depth</li>
 </ul>
 
-<br/><h2> ⚙️ My Tools </h2><hr/><br/>
+<h2> ⚙️ My Tools </h2>
 
 ![Csharp](https://img.shields.io/badge/Csharp-Language-informational?style=flat-square&logo=csharp&color=blueviolet)
 ![Rust](https://img.shields.io/badge/Rust-Language-informational?style=flat-square&logo=rust&color=important)
@@ -44,7 +44,7 @@
 ![Vscode](https://img.shields.io/badge/Vscode-informational?style=flat-square&logo=visual-studio-code&color=444&logoColor=0097e7)
 ![Nginx](https://img.shields.io/badge/Nginx-informational?style=flat-square&logo=nginx&color=444)
 
-<br/><h2> 📈 Github Stats<h2><hr/><br/>
+<h2> 📈 Github Stats<h2>
 
 <p align="center">
     <a href="https://github.com/b3hniya">
@@ -58,7 +58,7 @@
     </a>
 </div>
 
-<br/><h2> 🤝 Connect with me</h2><hr/><br/>
+<h2> 🤝 Connect with me</h2>
 <a href="https://www.linkedin.com/in/behniya-azad-b75996201/">
 <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="48px">
 </a>
