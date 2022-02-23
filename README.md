@@ -4,6 +4,8 @@
     <p align="left">
         I love large-scale applications architecture and how every piece is working together.
         Also I do web-development as my personal interest.
+        <br/>
+        You can find me on <a href="https://www.linkedin.com/in/behniya-azad-b75996201/">Linkedin</a>.
     </p>
     <img src="https://visitor-badge.glitch.me/badge?page_id=b3hniya.b3hniya">
 </div>
