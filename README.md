@@ -44,6 +44,7 @@
 ![Css3](https://img.shields.io/badge/CSS3-informational?style=flat-square&logo=css3&color=444&logoColor=00a7ff)
 ![Sass](https://img.shields.io/badge/Sass-informational?style=flat-square&logo=sass&color=444)
 ![Vscode](https://img.shields.io/badge/Vscode-informational?style=flat-square&logo=visual-studio-code&color=444&logoColor=0097e7)
+![Linux](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&color=444)
 ![Nginx](https://img.shields.io/badge/Nginx-informational?style=flat-square&logo=nginx&color=444)
 
 <h2> 📈 Github Stats<h2>
