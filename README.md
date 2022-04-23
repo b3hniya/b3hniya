@@ -23,7 +23,6 @@
 ![Rust](https://img.shields.io/badge/Rust-Language-informational?style=flat-square&logo=rust&color=important)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-informational?style=flat-square&logo=javascript&color=ffd300)
 ![Typescript](https://img.shields.io/badge/Typescript-Language-informational?style=flat-square&logo=typescript&color=004c7a)
-![Elm](https://img.shields.io/badge/Elm-Language-informational?style=flat-square&logo=elm&color=008cff)
 
 ![NET](https://img.shields.io/badge/.NET-Framework-informational?style=flat-square&logo=dotnet&color=blueviolet)
 ![ASP](https://img.shields.io/badge/Asp.Net-Framework-informational?style=flat-square&logo=aspdotnet&color=blueviolet)
@@ -31,21 +30,19 @@
 ![Vue](https://img.shields.io/badge/Vue.js-Framework-informational?style=flat-square&logo=vuedotjs&color=0A995B)
 ![Electron.js](https://img.shields.io/badge/Electron.js-Framework-informational?style=flat-square&logo=electron&color=004c7a&logoColor=0098ed)
 
-![Linux](https://img.shields.io/badge/Gnu/Linux-OS-informational?style=flat-square&logo=gnu&color=dee2e6)
-![Manjaro](https://img.shields.io/badge/Manjaro-OS-informational?style=flat-square&logo=manjaro&color=0A995B)
-
 ![SqlServer](https://img.shields.io/badge/SQLServer-Database-informational?style=flat-square&logo=microsoft-sql-server&color=blueviolet)
 ![Entity](https://img.shields.io/badge/Entity-Framework-informational?style=flat-square&logo=entitycore&color=blueviolet)
 ![Git](https://img.shields.io/badge/Git-VCS-informational?style=flat-square&logo=git&color=ff6f00)
 ![Docker](https://img.shields.io/badge/Docker-Containers-informational?style=flat-square&logo=docker&color=00b2ff)
-![Jest](https://img.shields.io/badge/Jest-Framework-informational?style=flat-square&logo=jest&color=004c7a&logoColor=0098ed)
 
 ![Html5](https://img.shields.io/badge/Html5-informational?style=flat-square&logo=html5&color=444)
 ![Css3](https://img.shields.io/badge/CSS3-informational?style=flat-square&logo=css3&color=444&logoColor=00a7ff)
 ![Sass](https://img.shields.io/badge/Sass-informational?style=flat-square&logo=sass&color=444)
 ![Vscode](https://img.shields.io/badge/Vscode-informational?style=flat-square&logo=visual-studio-code&color=444&logoColor=0097e7)
+![Rider](https://img.shields.io/badge/Rider-informational?style=flat-square&logo=rider&color=444&logoColor=ccdbfd)
 ![Linux](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&color=444)
-![Nginx](https://img.shields.io/badge/Nginx-informational?style=flat-square&logo=nginx&color=444)
+
+![Fedora](https://img.shields.io/badge/Fedora-OS-informational?style=flat-square&logo=fedora&color=dee2e6)
 
 <h2> 📈 Github Stats<h2>
 
