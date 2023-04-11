@@ -55,6 +55,8 @@
 <div align="center">
     <a href="https://github.com/b3hniya">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3hniya&show_icons=true&bg_color=20,009A5B,444&title_color=f1f1f1&text_color=f0f0f0&icon_color=404040&card_width=500">
+        
+        <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?             username=b3hniya&show_icons=true&hide_border=true&include_all_commits=true" />
     </a>
 </div>
 
