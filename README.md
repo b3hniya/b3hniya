@@ -20,13 +20,12 @@
 <h2> ⚙️ My Tools </h2>
 
 ![Csharp](https://img.shields.io/badge/Csharp-Language-informational?style=flat-square&logo=csharp&color=blueviolet)
-![Rust](https://img.shields.io/badge/Rust-Language-informational?style=flat-square&logo=rust&color=important)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-informational?style=flat-square&logo=javascript&color=ffd300)
 ![Typescript](https://img.shields.io/badge/Typescript-Language-informational?style=flat-square&logo=typescript&color=004c7a)
 
 ![NET](https://img.shields.io/badge/.NET-Framework-informational?style=flat-square&logo=dotnet&color=blueviolet)
 ![ASP](https://img.shields.io/badge/Asp.Net-Framework-informational?style=flat-square&logo=aspdotnet&color=blueviolet)
-![Blazor](https://img.shields.io/badge/Blazor-Framework-informational?style=flat-square&logo=blazor&color=blueviolet)
+![React](https://img.shields.io/badge/React-Framework-informational?style=flat-square&logo=react&color=blueviolet)
 ![Vue](https://img.shields.io/badge/Vue.js-Framework-informational?style=flat-square&logo=vuedotjs&color=0A995B)
 ![Electron.js](https://img.shields.io/badge/Electron.js-Framework-informational?style=flat-square&logo=electron&color=004c7a&logoColor=0098ed)
 
