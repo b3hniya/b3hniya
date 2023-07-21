@@ -20,7 +20,6 @@
 <h2> ⚙️ My Tools </h2>
 
 ![Csharp](https://img.shields.io/badge/Csharp-Language-informational?style=flat-square&logo=csharp&color=blueviolet)
-![Javascript](https://img.shields.io/badge/Javascript-Language-informational?style=flat-square&logo=javascript&color=ffd300)
 ![Typescript](https://img.shields.io/badge/Typescript-Language-informational?style=flat-square&logo=typescript&color=004c7a)
 
 ![NET](https://img.shields.io/badge/.NET-Framework-informational?style=flat-square&logo=dotnet&color=blueviolet)
