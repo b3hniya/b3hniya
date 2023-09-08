@@ -39,8 +39,6 @@
 ![Rider](https://img.shields.io/badge/Rider-informational?style=flat-square&logo=rider&color=444&logoColor=ccdbfd)
 ![Linux](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&color=444)
 
-![Fedora](https://img.shields.io/badge/Fedora-OS-informational?style=flat-square&logo=fedora&color=dee2e6)
-
 <h2> 📈 Github Stats<h2>
 
 <div align="center">
