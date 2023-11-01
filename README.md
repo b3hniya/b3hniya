@@ -39,8 +39,6 @@
 ![Rider](https://img.shields.io/badge/Rider-informational?style=flat-square&logo=rider&color=444&logoColor=ccdbfd)
 ![Linux](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&color=444)
 
-<h2> 📈 Github Stats<h2>
-
 <h2> 🤝 Connect with me</h2>
 <a href="https://www.linkedin.com/in/behniya-azad-b75996201/">
 <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="48px">
