@@ -41,12 +41,6 @@
 
 <h2> 📈 Github Stats<h2>
 
-<div align="center">
-    <a href="https://github.com/b3hniya">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3hniya&show_icons=true&bg_color=20,009A5B,444&title_color=f1f1f1&text_color=f0f0f0&icon_color=404040&card_width=500" >
-    </a>        
-</div>
-
 <h2> 🤝 Connect with me</h2>
 <a href="https://www.linkedin.com/in/behniya-azad-b75996201/">
 <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="48px">
