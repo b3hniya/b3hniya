@@ -10,13 +10,6 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=b3hniya.b3hniya">
 </div>
 
-<h2> 🌱 I'm Currently learning</h2>
-
-<ul>
-    <li>Entity Framework in depth</li>
-    <li>ASP.Net Framework in depth</li>
-</ul>
-
 <h2> ⚙️ My Tools </h2>
 
 ![Csharp](https://img.shields.io/badge/Csharp-Language-informational?style=flat-square&logo=csharp&color=blueviolet)
