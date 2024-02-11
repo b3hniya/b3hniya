@@ -1,6 +1,6 @@
 <div> 
     <h2 style="">Hi there, I'm Behniya 🎧</h2>
-    <h3> Software architect and developer. </h3>
+    <h3> Software engineer and architecture enthusiast. </h3>
     <p align="left">
         I love large-scale applications architecture and how every piece is working together.
         Also I do web-development as my personal interest.
